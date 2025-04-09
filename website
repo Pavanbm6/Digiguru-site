@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Services | DigiGuru</title>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>Our Services</h1>
+    <nav>
+      <a href="index.html">Home</a>
+      <a href="about.html">About</a>
+      <a href="services.html">Services</a>
+      <a href="gallery.html">Gallery</a>
+      <a href="contact.html">Contact</a>
+      <a href="login.html">Login</a>
+    </nav>
+  </header>
+  <main>
+    <section>
+      <h2>Performance Marketing</h2>
+      <p>At DigiGuru, performance marketing is at the heart of our value proposition. We specialize in maximizing every advertising dollar spent by leveraging real-time data analytics, strategic targeting, and continuous optimization. Our approach is ROI-driven, ensuring that each campaign we manage not only meets but exceeds its intended objectives. Through platforms like Meta Ads, Google Ads, and programmatic networks, we reach the right audience at the right time, enhancing lead generation and boosting conversions.
+      
+We don’t just run ads—we build growth engines. By analyzing user behavior, we refine our targeting, ensuring your messaging resonates with the intended demographic. Whether it’s pay-per-click (PPC), affiliate, native, or display advertising, we tailor campaigns that align with your brand goals. Weekly reports and clear KPIs help you stay informed, while our automated AI-based systems handle budget allocations dynamically for better efficiency.
+
+Our proven track record includes increasing client conversions by over 200% within the first quarter of engagement. Partner with us to experience the true power of intelligent, scalable marketing.
+</p>
+    </section>
+
+    <section>
+      <h2>AI Powered Business Strategies</h2>
+      <p>DigiGuru crafts next-gen business strategies powered by artificial intelligence. We analyze complex data points to formulate predictive, agile, and intelligent roadmaps tailored to your business goals. By integrating AI into your decision-making processes, we enable smarter business planning, faster pivots, and more informed investments.
+
+Our strategies are informed by machine learning models that assess customer behavior, seasonal trends, market shifts, and competitor moves. The result? You’re always three steps ahead. From product recommendations to customer segmentation and process automation, our AI-backed framework helps reduce risk while improving growth.
+
+We empower businesses to make smarter choices that scale with confidence. With us, you’re not just reacting to the market—you’re shaping it.
+</p>
+    </section>
+
+    <section>
+      <h2>Data-Driven AI Strategies</h2>
+      <p>Data is the new oil, and at DigiGuru, we refine it into actionable insights using AI. Our data-driven AI strategies combine structured and unstructured data from various customer touchpoints to create precise marketing strategies and predict market behavior. 
+
+We build custom dashboards and models that give you deep visibility into performance, customer engagement, and campaign effectiveness. Predictive analytics helps determine the best channels, content formats, and timing for outreach. 
+
+Whether it's dynamic pricing, churn prediction, or personalized advertising, our solutions are tailored to deliver real-world impact. Clients have reported a 60% increase in operational efficiency and a 35% rise in lead quality post-integration. With DigiGuru, your business doesn’t just grow—it evolves intelligently.
+</p>
+    </section>
+
+    <section>
+      <h2>Competitor Analysis</h2>
+      <p>Understanding your competition is critical to market leadership. DigiGuru offers in-depth competitor analysis that uncovers not just what your rivals are doing—but how you can do it better. Using advanced tools, AI crawlers, and social listening platforms, we gather intelligence across their digital footprint.
+
+We analyze keyword performance, ad strategies, content marketing trends, and customer sentiment around your competitors. Our actionable reports help you discover gaps, seize opportunities, and craft counter-strategies that outperform.
+
+From benchmarking traffic sources to pricing models and SEO tactics, our insights empower you to make data-backed decisions. This is your opportunity to leapfrog your competition using real-time intel and strategic foresight.
+</p>
+    </section>
+
+    <section>
+      <h2>AI Powered Growth Prediction</h2>
+      <p>DigiGuru uses predictive analytics and AI forecasting tools to help you plan for success. Growth isn’t guesswork—it’s a science. Our models process historical data, customer behavior, economic trends, and industry movements to accurately predict business outcomes.
+
+This allows you to plan budgets, marketing campaigns, and inventory with greater confidence. Our predictive systems identify high-performing customer segments, suggest upselling strategies, and alert you to potential churn risks.
+
+This foresight enables proactive strategy development instead of reactive management. We’ve helped startups plan for 5x scale-up while maintaining performance efficiency. With DigiGuru, you get visibility into tomorrow’s opportunities, today.
+</p>
+    </section>
+
+    <section>
+      <h2>Corporate Event Planning</h2>
+      <p>Events are powerful tools for brand building, networking, and engagement. At DigiGuru, we bring creativity, logistics, and digital integration together to create seamless corporate event experiences. Whether it’s a product launch, seminar, or team retreat—we handle everything from ideation to execution.
+
+Our approach is tech-infused. We integrate virtual event solutions, live-streaming, mobile check-ins, and performance tracking to elevate audience experience. Every element—from theme design to vendor management—is curated with precision.
+
+We’ve executed events for global clients with over 1000 attendees, combining digital reach with physical engagement. Our events don’t just impress—they deliver measurable impact.
+</p>
+    </section>
+
+    <section>
+      <h2>Adhoc Team Building Activities</h2>
+      <p>Strong teams build strong businesses. DigiGuru curates spontaneous, fun, and impactful team building experiences designed to boost collaboration, creativity, and morale. Our activities include in-office games, outdoor retreats, digital hackathons, and AI-themed problem-solving challenges.
+
+We align each activity with your company values and goals. Whether you're looking to improve communication, leadership, or innovation, we offer dynamic experiences tailored to your needs. Engagement is tracked through feedback loops, ensuring continuous improvement.
+
+Happy teams are productive teams. With DigiGuru, you nurture culture while building capability.
+</p>
+    </section>
+
+    <section>
+      <h2>Influencer Marketing & Outreach (Coming Soon)</h2>
+      <p>We're building a powerful influencer outreach platform that connects brands with top-tier creators across niches. It will include campaign tracking, budget control, creator discovery tools, and engagement metrics. Stay tuned as we revolutionize influencer marketing with AI-matching and campaign automation!
+</p>
+    </section>
+
+    <section>
+      <h2>ATL & BTL Activities</h2>
+      <p>DigiGuru executes high-impact ATL (Above the Line) and BTL (Below the Line) campaigns that span across mass media and hyper-local engagement. We run television, radio, and print campaigns for wide reach, and pair them with precise BTL strategies like on-ground activations, sampling, and direct marketing.
+
+We ensure brand recall across the spectrum with consistent messaging. Our hybrid campaigns blend online and offline experiences for unified customer journeys. Whether it’s a mall activation or a metro ad, we make sure your audience sees, hears, and remembers your brand.
+</p>
+    </section>
+
+    <section>
+      <h2>Business Consultation</h2>
+      <p>Need a trusted growth advisor? DigiGuru offers strategic business consultation tailored to your unique needs. We dive into your operations, market positioning, and internal capabilities to co-create transformation roadmaps. Whether you're a startup or an established firm, our insights help drive profitability, scalability, and sustainability.
+
+From digital transformation to sales funnel optimization, we act as your extended team, working side by side to accelerate growth. With our consultation, your business isn’t just prepared—it’s primed to lead.
+</p>
+    </section>
+  </main>
+  <footer>
+    <p>&copy; 2025 DigiGuru</p>
+  </footer>
+</body>
+</html>
